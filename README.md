@@ -10,17 +10,17 @@ The demonstration portion of this program includes a mobile mechanical robot tha
 ## Images
 <div align="center">
 	<img src="./Mechanical/Images/Mechanical Assembly.png" width="400"><br>
-    The mechanical assembly of the demonstration robot
+    Mechanical assembly of the demonstration robot
 </div><br>
 
 <div align="center">
 	<img src="./Control Systems/Images/Schematic.PNG" width="400"><br>
-	The control systems schematic for the demonstration robot
+	Control systems schematic for the demonstration robot
 </div><br>
 
 <div align="center">
 	<img src="./Control Systems/Images/Android Application.png" height="400"><br>
-    The Android application to control the demonstration robot
+    Android application used to control the demonstration robot
 </div><br>
 
 This project was completed as part of my undergraduate capstone project during my final year at the University of Calgary.
