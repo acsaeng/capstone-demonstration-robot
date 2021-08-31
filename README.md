@@ -1,4 +1,4 @@
-# Capstone Demonstration Robot
+# Demonstration Robot
 
 **Authors:** Martin Lee, Benjamin Liu, Kathryn Nguyen, Aron Saengchan, and Michael Shipman
 
