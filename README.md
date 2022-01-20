@@ -23,4 +23,4 @@ The demonstration portion of this program includes a mobile mechanical robot tha
     Android application used to control the demonstration robot
 </div><br>
 
-This project was completed as part of ENME 538: Mechanical Engineering Design Methodology and Application as my undergraduate capstone project during my final year at the University of Calgary.
+This project was completed as part of ENME 538: Mechanical Engineering Design Methodology and Application for my undergraduate capstone project during my final year at the University of Calgary.
