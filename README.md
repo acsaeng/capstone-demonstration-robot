@@ -9,17 +9,17 @@ The demonstration portion of this program includes a mobile mechanical robot tha
 
 ## Images
 <div align="center">
-	<img src="./Mechanical/Images/Mechanical Assembly.png" width="400"><br>
+	<img src="./mechanical/images/Mechanical Assembly.png" width="400"><br>
     Mechanical assembly of the demonstration robot
 </div><br>
 
 <div align="center">
-	<img src="./Control Systems/Images/Schematic.PNG" width="400"><br>
+	<img src="./control-systems/images/Schematic.PNG" width="400"><br>
 	Control systems schematic for the demonstration robot
 </div><br>
 
 <div align="center">
-	<img src="./Control Systems/Images/Android Application.png" height="400"><br>
+	<img src="./control-systems/images/Android Application.png" height="400"><br>
     Android application used to control the demonstration robot
 </div><br>
 
